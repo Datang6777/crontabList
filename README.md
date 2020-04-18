@@ -52,9 +52,7 @@ V2.x新增以下功能和特性：
 ----
 1、给项目一个star
 
-2、请我喝瓶水
 
-![github](https://github.com/george518/PP_blog/blob/master/static/public/images/weixin.png?raw=true "github")
 
 四、先睹为快
 ----
@@ -285,16 +283,7 @@ id:11
 
 
 
-九、联系我
-----
-qq群号:547564773
-欢迎交流，欢迎提交代码。
 
-十、感谢
-----
-@bannerchi 
-@linxiaozhi 
-@gongwalker
 
 
 
